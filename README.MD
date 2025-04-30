@@ -5,7 +5,7 @@ This repository contains tutorials by LangChain found [here](https://python.lang
 Tutorials are divided into three sections
 
 - Basics
-  - [LLM applications](https://python.langchain.com/docs/tutorials/llm_chain/): Build and deploy a simple LLM application.  [source code](basics/simple-llm-app.ipynb)
+  - [LLM applications](https://python.langchain.com/docs/tutorials/llm_chain/): Build and deploy a simple LLM application.  [source code](basics/1_chat-models-and-prompt_templates.ipynb)
   - [Chatbots](https://python.langchain.com/docs/tutorials/chatbot/): Build a chatbot that incorporates memory.
   - [Vector stores](https://python.langchain.com/docs/tutorials/retrievers/): Build vector stores and use them to retrieve data.
   - [Agents](https://python.langchain.com/docs/tutorials/agents/): Build an agent that interacts with external tools.

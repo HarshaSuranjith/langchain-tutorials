@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 langserve = {extras = ["all"], version = "*"}
+langchain-core = "*"
+langgraph = ">=0.2.27"
+python-dotenv = "*"
 
 [dev-packages]
 
